@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao chị cứ đi nhầm đường
     Lạc vào tim em lẻ loi
-    Ngáo cái là ngủ luôn,
+    Ngáo cái là ngủ luôn` ,
     btnIntro: 'hihi',
     title: 'chị mèo 😙',
     desc: 'em yêu chị ',
